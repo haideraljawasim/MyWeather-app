@@ -1,0 +1,59 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (SDK path, etc.)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio/IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Keystore files (don't share signing keys)
+*.jks
+*.keystore
+
+# NDK
+obj/
+
+# Miscellaneous
+*.swp
+*.swo
+*.DS_Store
+
+# Crashlytics/Firebase
+fabric.properties
+.crashlytics/
+.firebase/
+
+# Coverage reports
+coverage/
+*.ec
+
+# Kotlin specific
+*.kotlin_module
+
+# Other
+.cxx/
+.externalNativeBuild/
